@@ -1,5 +1,3 @@
-Aqui está o markdown atualizado com comentários explicativos diretamente nos trechos de código:
-
 
 # DIO NLP Microsoft Challenge AI-102
 
